@@ -1,0 +1,12 @@
+body {
+    color: blueviolet;
+    text-align: center;
+    font-family: "Helvetica";
+    background-color: aqua;
+}
+
+p {
+    font-family: "tahoma";
+    font-size: 40px;
+    background-color: black;
+}
