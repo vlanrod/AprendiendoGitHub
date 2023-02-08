@@ -10,3 +10,9 @@ p {
     font-size: 40px;
     background-color: black;
 }
+
+h1 {
+    color: #d0ff00;
+    font-size: 60px;
+    background-color: rgb(226, 31, 145);
+}
