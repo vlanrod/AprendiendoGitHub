@@ -1,12 +1,18 @@
 body {
-    color: blueviolet;
     text-align: center;
     font-family: "Helvetica";
     background-color: aqua;
 }
 
 p {
+    color: blueviolet;
     font-family: "tahoma";
     font-size: 40px;
     background-color: black;
+}
+
+h1 {
+    color: #d0ff00;
+    font-size: 60px;
+    background-color: rgb(226, 31, 145);
 }
